@@ -1,0 +1,33 @@
+.bg_head_five{
+    background: rgb(232,232,254);
+    background: linear-gradient(90deg, rgba(232,232,254,1) 0%, rgba(251,245,245,1) 26%, rgba(238,240,252,1) 87%);
+}
+
+.bg_button_head_five {
+    background: rgb(71,102,208);
+    background: linear-gradient(90deg, rgba(71,102,208,1) 0%, rgb(216, 82, 82) 88%);
+}
+
+.color_head_five {
+    background: -webkit-linear-gradient(rgb(223, 32, 32), rgb(79, 43, 211));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bg_buttons_footer_first {
+    background-image: linear-gradient( 111.2deg,  rgb(47, 5, 232) 1.7%, rgb(245, 32, 85) 98.7% );
+}
+
+.bg_footer_first {
+    background: rgb(6,5,36);
+    background: linear-gradient(90deg, rgba(6,5,36,1) 6%, rgba(6,3,32,1) 27%, rgba(7,9,75,1) 78%, rgba(3,7,29,1) 91%);
+}
+
+.bg_faq_malanderse {
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 42%, rgba(255,255,255,1) 49%, rgba(237,233,249,1) 74%, rgba(255,255,255,1) 91%);
+}
+
+.bg_CTA_malanderse {
+    background: rgb(64,97,240);
+    background: linear-gradient(63deg, rgba(64,97,240,1) 0%, rgba(255,255,255,1) 16%, rgba(84,112,230,1) 35%, rgba(95,121,231,1) 67%, rgba(237,233,249,1) 83%, rgba(114,139,239,1) 93%);
+}
